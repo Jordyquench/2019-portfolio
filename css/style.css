@@ -94,6 +94,20 @@ a {
     padding-top: 40px;
 }
 
+.col-md-12{
+    padding-top: 40px;
+}
+
+.rv{
+    color: #93D9D8;
+    text-decoration: none;
+}
+
+.rv :hover p{
+    text-decoration: none;
+    color: #999;
+}
+
 
 
 /* images
@@ -129,7 +143,7 @@ video{
     padding-top: 30px;
 }
 .ruark{
-    padding-left: 100px;
+    padding-left: 40px;
 }
 
 
